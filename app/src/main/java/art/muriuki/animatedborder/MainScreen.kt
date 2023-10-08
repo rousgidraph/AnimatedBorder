@@ -72,7 +72,7 @@ fun AnimatedBorderCard(
                             blendMode = BlendMode.SrcIn
                         )
                     }
-                    drawContent()
+//                    drawContent()
                 },
             color = MaterialTheme.colorScheme.surface,
             shape = shape
